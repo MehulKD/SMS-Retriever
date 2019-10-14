@@ -1,0 +1,165 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.databinding:databinding-adapters:3.6.0-beta01] /Users/mehul/.gradle/caches/transforms-2/files-2.1/c3385c84594b4a5d09362fef21f871cc/databinding-adapters-3.6.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.6.0-beta01] /Users/mehul/.gradle/caches/transforms-2/files-2.1/d481adc783b8cb7ba56cd1befdcb2378/databinding-runtime-3.6.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/mehul/.gradle/caches/transforms-2/files-2.1/f1953eecd31ff922afc94300b2994655/material-1.1.0-alpha10/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/77f9e090d44d18bd12907b9e5c6be465/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mehul/.gradle/caches/transforms-2/files-2.1/1b930c4387f865ad4debf36ab76de6dc/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.databinding:viewbinding:3.6.0-beta01] /Users/mehul/.gradle/caches/transforms-2/files-2.1/db0be9152e7421ccb3aefe8f6e214584/jetified-viewbinding-3.6.0-beta01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] /Users/mehul/.gradle/caches/transforms-2/files-2.1/4599a10e6ad856bea9ec3991bd93a4cf/jetified-viewpager2-1.0.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/59ed52d78b93c7e9e4f7e98cf822aa07/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/3767d72ac09c6ce064727da49ffc0e6a/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/7bde189d166dd2f24d95ae3a5f6c9a47/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/mehul/.gradle/caches/transforms-2/files-2.1/614602ec194b4f0f2b5c18b8e38c3a77/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/mehul/.gradle/caches/transforms-2/files-2.1/f49fd916bfe6e5f67f212066b48247b9/transition-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/2c97a1b10c159686abb4756f3e63a6b4/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/b07ccec231f05e02106788bbb76054fb/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/2f36b11c6a5a0f594df61eab3f0f8b11/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/a7b9113b8a2914ec7a0b740e8c60f173/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/6e9839e2e2d52d93bbe8e5af7894addd/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/mehul/.gradle/caches/transforms-2/files-2.1/3c50f0287da20ec8c8470b200741f25c/recyclerview-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/1a59e3ea9303bfe2cfbdda2be091a219/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/8a1d947778c3b1f80abb56b30c93207c/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/acedd1c6aea5715b5c65df64ef1df353/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/9c003740c03dd9557789d27fef1973e1/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/9636399b2eba3ed2442de20c1e541d81/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/6250b45544f0f0c2971f6784df5227f4/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/5a0fdea61a784d12c3a95afc58e6b26d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/98bb7da0e03359dd3f2bd124ecd03f17/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/12cc80bd1a2724b9ae80c4d320885809/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/f1b9d4e5ef841f9047e9f9c3887bd56a/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/8e39f3ea582a0af84a7122d217e62d06/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/3f8f952b601e25afffda4e4703b46594/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/mehul/.gradle/caches/transforms-2/files-2.1/f1953eecd31ff922afc94300b2994655/material-1.1.0-alpha10/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/mehul/.gradle/caches/transforms-2/files-2.1/f1953eecd31ff922afc94300b2994655/material-1.1.0-alpha10/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mehul/.gradle/caches/transforms-2/files-2.1/1b930c4387f865ad4debf36ab76de6dc/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mehul/.gradle/caches/transforms-2/files-2.1/1b930c4387f865ad4debf36ab76de6dc/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/8a1d947778c3b1f80abb56b30c93207c/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/8a1d947778c3b1f80abb56b30c93207c/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/9c003740c03dd9557789d27fef1973e1/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/9c003740c03dd9557789d27fef1973e1/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/8a1d947778c3b1f80abb56b30c93207c/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.shankasur.smsretriever.MainActivity
+ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.6.0-beta01] /Users/mehul/.gradle/caches/transforms-2/files-2.1/c3385c84594b4a5d09362fef21f871cc/databinding-adapters-3.6.0-beta01/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.6.0-beta01] /Users/mehul/.gradle/caches/transforms-2/files-2.1/c3385c84594b4a5d09362fef21f871cc/databinding-adapters-3.6.0-beta01/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.0-beta01] /Users/mehul/.gradle/caches/transforms-2/files-2.1/d481adc783b8cb7ba56cd1befdcb2378/databinding-runtime-3.6.0-beta01/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.0-beta01] /Users/mehul/.gradle/caches/transforms-2/files-2.1/d481adc783b8cb7ba56cd1befdcb2378/databinding-runtime-3.6.0-beta01/AndroidManifest.xml:22:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/mehul/.gradle/caches/transforms-2/files-2.1/f1953eecd31ff922afc94300b2994655/material-1.1.0-alpha10/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/mehul/.gradle/caches/transforms-2/files-2.1/f1953eecd31ff922afc94300b2994655/material-1.1.0-alpha10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/77f9e090d44d18bd12907b9e5c6be465/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/77f9e090d44d18bd12907b9e5c6be465/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mehul/.gradle/caches/transforms-2/files-2.1/1b930c4387f865ad4debf36ab76de6dc/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mehul/.gradle/caches/transforms-2/files-2.1/1b930c4387f865ad4debf36ab76de6dc/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:3.6.0-beta01] /Users/mehul/.gradle/caches/transforms-2/files-2.1/db0be9152e7421ccb3aefe8f6e214584/jetified-viewbinding-3.6.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.0-beta01] /Users/mehul/.gradle/caches/transforms-2/files-2.1/db0be9152e7421ccb3aefe8f6e214584/jetified-viewbinding-3.6.0-beta01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] /Users/mehul/.gradle/caches/transforms-2/files-2.1/4599a10e6ad856bea9ec3991bd93a4cf/jetified-viewpager2-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] /Users/mehul/.gradle/caches/transforms-2/files-2.1/4599a10e6ad856bea9ec3991bd93a4cf/jetified-viewpager2-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/59ed52d78b93c7e9e4f7e98cf822aa07/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/59ed52d78b93c7e9e4f7e98cf822aa07/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/3767d72ac09c6ce064727da49ffc0e6a/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/3767d72ac09c6ce064727da49ffc0e6a/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/7bde189d166dd2f24d95ae3a5f6c9a47/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/7bde189d166dd2f24d95ae3a5f6c9a47/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/mehul/.gradle/caches/transforms-2/files-2.1/614602ec194b4f0f2b5c18b8e38c3a77/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/mehul/.gradle/caches/transforms-2/files-2.1/614602ec194b4f0f2b5c18b8e38c3a77/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] /Users/mehul/.gradle/caches/transforms-2/files-2.1/f49fd916bfe6e5f67f212066b48247b9/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/mehul/.gradle/caches/transforms-2/files-2.1/f49fd916bfe6e5f67f212066b48247b9/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/2c97a1b10c159686abb4756f3e63a6b4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/2c97a1b10c159686abb4756f3e63a6b4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/b07ccec231f05e02106788bbb76054fb/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/b07ccec231f05e02106788bbb76054fb/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/2f36b11c6a5a0f594df61eab3f0f8b11/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/2f36b11c6a5a0f594df61eab3f0f8b11/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/a7b9113b8a2914ec7a0b740e8c60f173/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/a7b9113b8a2914ec7a0b740e8c60f173/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/6e9839e2e2d52d93bbe8e5af7894addd/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/6e9839e2e2d52d93bbe8e5af7894addd/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/mehul/.gradle/caches/transforms-2/files-2.1/3c50f0287da20ec8c8470b200741f25c/recyclerview-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/mehul/.gradle/caches/transforms-2/files-2.1/3c50f0287da20ec8c8470b200741f25c/recyclerview-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/1a59e3ea9303bfe2cfbdda2be091a219/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/1a59e3ea9303bfe2cfbdda2be091a219/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/8a1d947778c3b1f80abb56b30c93207c/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/8a1d947778c3b1f80abb56b30c93207c/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/acedd1c6aea5715b5c65df64ef1df353/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/acedd1c6aea5715b5c65df64ef1df353/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/9c003740c03dd9557789d27fef1973e1/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/9c003740c03dd9557789d27fef1973e1/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/9636399b2eba3ed2442de20c1e541d81/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/9636399b2eba3ed2442de20c1e541d81/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/6250b45544f0f0c2971f6784df5227f4/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/6250b45544f0f0c2971f6784df5227f4/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/5a0fdea61a784d12c3a95afc58e6b26d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/5a0fdea61a784d12c3a95afc58e6b26d/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/98bb7da0e03359dd3f2bd124ecd03f17/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/98bb7da0e03359dd3f2bd124ecd03f17/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/12cc80bd1a2724b9ae80c4d320885809/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/12cc80bd1a2724b9ae80c4d320885809/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/f1b9d4e5ef841f9047e9f9c3887bd56a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/f1b9d4e5ef841f9047e9f9c3887bd56a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/8e39f3ea582a0af84a7122d217e62d06/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/8e39f3ea582a0af84a7122d217e62d06/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/3f8f952b601e25afffda4e4703b46594/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mehul/.gradle/caches/transforms-2/files-2.1/3f8f952b601e25afffda4e4703b46594/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mehul/AndroidStudioProjects/SMSRetriever/app/src/main/AndroidManifest.xml
